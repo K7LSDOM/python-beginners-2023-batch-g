@@ -5,4 +5,4 @@ db = {"Books": [15, 100],
       "Soap": [10, 130]
       }
 print(db)
-input('please insert your choice of item:')
+input('please insert your choice of item: ')
